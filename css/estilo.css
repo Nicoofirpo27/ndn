@@ -1,0 +1,26 @@
+body{
+    background-color: rgba(149, 160, 169, 0.365);
+}
+h1{
+    text-align: center;
+    
+}
+h3{
+    margin-top: 40px;
+}
+ol{
+    margin-top: 15px;
+    line-height: 1.6;
+}
+
+button{
+    background-color: rgb(54, 142, 142);
+    color: aliceblue;
+    margin-left: 600px;  
+   
+    
+}
+button:hover {
+    background-color: aliceblue;
+    color: rgb(54, 142, 142) ;
+}
